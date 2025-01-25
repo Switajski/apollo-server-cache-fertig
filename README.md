@@ -6,6 +6,8 @@ published via codesandbox.io
 
 ## get started
 
+Open codesandbox io: https://codesandbox.io/p/github/Switajski/apollo-server-cache-fertig/main
+
 Start apollo server with GraphQL via `yarn start`
 ![alt text](image.png)
 
